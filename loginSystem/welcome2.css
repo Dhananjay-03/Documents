@@ -1,0 +1,41 @@
+.*
+{
+  margin: 0;
+  padding: 0;
+}
+.gain
+{
+  width: 600px;
+  height: 300px;
+  position: absolute;
+  left: 380px;
+  top: 150px;
+  border-width: medium;
+  border-color: black;
+  background-color:#DCDCDC;
+  text-align:center;
+  padding: 10px;
+
+}
+
+.this
+{
+  border-radius: 1002px;
+  box-sizing: border-box;
+}
+.form1
+{
+  padding: 15px;
+  margin: 0 10px;
+}
+.input1
+{
+  width: 230px;
+}
+.input2
+{
+  width: 230px;
+}.input3
+{
+  width: 230px;
+}

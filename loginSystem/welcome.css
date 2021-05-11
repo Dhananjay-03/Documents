@@ -1,0 +1,75 @@
+.*
+{
+  margin: 0;
+  padding: 0;
+
+}
+.signup
+{
+  height: 50px;
+  width: 100%;
+  background-color: #696969;
+  color: white;
+  float:left;
+  list-style: outside none none;
+}
+li
+{
+  display: inline;
+  margin: 0 10px;
+  color: blue;
+
+}
+.main
+{
+  width: 700px;
+  height: 500px;
+  position: absolute;
+  left: 250px;
+  top: 150px;
+  border-width: medium;
+  border-color: black;
+  background-color:#DCDCDC;
+  text-align:center;
+  padding: 10px;
+
+}
+.main2
+{
+  position: absolute;
+  bottom:1500px;
+  right:10px;
+
+}
+.this
+{
+  border-radius: 1002px;
+  box-sizing: border-box;
+
+
+}
+.form1
+{
+  padding: 15px;
+  margin: 0 10px;
+}
+.input1
+{
+  width: 230px;
+}
+.input2
+{
+  width: 230px;
+}.input3
+{
+  width: 230px;
+}
+h1
+{
+  font-style:italic;
+
+  color:#708090;
+}
+.maree{
+  color: red;
+}
