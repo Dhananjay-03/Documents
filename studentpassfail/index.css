@@ -1,0 +1,47 @@
+.{
+  margin: auto;
+}
+body
+{
+  background-color: #2E8B57;
+}
+.result
+{
+  height: 400px;
+  width: 550px;
+  position: absolute;
+  top: 260px;
+  left: 440px;
+  background-color: #2F4F4F;
+  border-radius: 11px;
+}
+.check
+{
+  font-style:oblique;
+  color: red;
+}
+.marks
+{
+  text-align: center;
+}
+.calc{
+  text-align: left;
+  color: #008000;
+
+}
+.buttons
+{
+  position: absolute;
+  right: 40px;
+  top: 50px;
+}
+.showData
+{
+  text-align: center;
+  text-decoration-style: solid;
+}
+.ap
+{
+  text-align: left;
+  text-align-last: left;
+}
